@@ -1,2 +1,3 @@
-# openshift-inventories
+# Openshift Inventories
+
 Openshift Ansible Inventories
